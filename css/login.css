@@ -27,7 +27,7 @@ html {
   border-radius: 5px;
   box-shadow: 20px 20px 50px grey;
   margin: 30px auto 30px auto; */
-  /* margin-left: auto;
+/* margin-left: auto;
   margin-right: auto; */
 /* }
 .wrapper .title-text {
@@ -128,7 +128,7 @@ input[type="radio"] {
 }
 .form-inner form .field input:focus {
   border-color: #9983fc; */
-  /* box-shadow: inset 0 0 3px #fb6aae; */
+/* box-shadow: inset 0 0 3px #fb6aae; */
 /* }
 .form-inner form .field input::placeholder {
   color: #999;
